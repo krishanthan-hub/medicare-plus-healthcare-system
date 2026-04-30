@@ -11,7 +11,7 @@ The system provides a centralized platform for managing appointments, medical re
 
 PHP
 MySQL
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript,
 XAMPP / Local Server
 
 
