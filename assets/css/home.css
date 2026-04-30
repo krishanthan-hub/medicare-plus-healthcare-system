@@ -1,0 +1,106 @@
+/* Hero */
+.hero {
+    background-image:
+        linear-gradient(rgba(240,249,250,0.80), rgba(230,247,248,0.80)),
+        url('/medicare_plus/assets/images/Hospital_BG.png') !important;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+}
+
+.card { transition: none !important; }
+.card:hover { transform: none !important; box-shadow: none !important; background: white !important; }
+
+/* Testimonials */
+.testimonials-section { background: #f4f6f9; padding: 5rem 0; }
+.testimonials-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2.5rem;
+}
+.testimonial-card {
+    background: white;
+    border-radius: 0px;
+    padding: 2rem 1.5rem;
+    box-shadow: 0 2px 12px rgba(0,0,0,.06);
+    border: 1.5px solid #e0e0e0;
+}
+.testimonial-quote {
+    font-size: 2rem;
+    color: #e8f1fd;
+    line-height: 1;
+    margin-bottom: .75rem;
+}
+.testimonial-stars { margin-bottom: 1rem; }
+.testimonial-stars i { color: #f59e0b; font-size: .9rem; }
+.testimonial-text {
+    font-size: .9rem;
+    color: #555;
+    line-height: 1.75;
+    margin-bottom: 1.25rem;
+}
+.testimonial-author { display: flex; align-items: center; gap: .85rem; }
+.testimonial-avatar {
+    width: 46px; height: 46px;
+    border-radius: 50%;
+    background: #e8f1fd;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+    overflow: hidden;
+}
+.testimonial-avatar i { font-size: 1.4rem; color: #1778F2; }
+.testimonial-author-name { font-size: .9rem; font-weight: 700; color: #1e3c4f; }
+.testimonial-author-role { font-size: .8rem; color: #6c757d; }
+
+/* Services Grid */
+.services-home-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.5rem;
+}
+.service-home-card {
+    text-align: center;
+    padding: 2rem 1.5rem;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 0px;
+    background: white;
+}
+
+/* Stats */
+.stats-section {
+    background: var(--white);
+    padding: 3rem 0;
+    border-bottom: 1px solid var(--border);
+}
+.stats-home-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1.5rem;
+}
+
+/* Load More Button */
+.btn-load-more {
+    display: inline-block;
+    padding: .75rem 2rem;
+    background: #1778F2;
+    color: white;
+    border-radius: 10px;
+    font-size: .95rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background .3s;
+    margin-top: 2rem;
+}
+.btn-load-more:hover { background: #1060c9; color: white; }
+
+/* CTA Section */
+.cta-section { background: #1778F2; padding: 4.5rem 0; }
+.cta-section h2 { color: white; font-size: 2rem; margin-bottom: .75rem; }
+.cta-section p  { color: rgba(255,255,255,.85); max-width: 500px; margin: 0 auto 2rem; }
+.btn-cta {
+    border: 2px solid white;
+    color: white;
+    background: transparent;
+}
+.btn-cta:hover { background: white; color: #1778F2; }
