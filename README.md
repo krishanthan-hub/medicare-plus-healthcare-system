@@ -19,25 +19,25 @@ XAMPP / Local Server
 
 ### Patient Module
 
-Register and login
-Book appointments
-View medical records
-Communicate with doctors
+Register and login,
+Book appointments,
+View medical records,
+Communicate with doctors and
 Rate doctors
 
 ### Doctor Module
 
-Manage appointments
-View patient details
-Add prescriptions
-Maintain schedules
+Manage appointments,
+View patient details,
+Add prescriptions,
+Maintain schedules and
 Communicate with patients
 
 ### Admin Module
 
-Manage doctors and patients
-View and control appointments
-Handle contact messages
+Manage doctors and patients,
+View and control appointments,
+Handle contact messages and
 System monitoring dashboard
 
 ## How to Run
