@@ -85,8 +85,44 @@ Deploy to a live server
 
 ## Screenshots
 
-*(Add screenshots here similar to your previous project)*
+### Home Page
 
+#### Hero Section
+
+![Hero](screenshots/home-hero.png)
+
+#### Services Section
+
+![Services](screenshots/home-services.png)
+
+#### Statistics Section
+
+![Stats](screenshots/home-stats.png)
+
+#### Testimonials Section
+
+![Testimonials](screenshots/home-testimonials.png)
+
+#### Footer Section
+
+![Footer](screenshots/home-footer.png)
+
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+###  Patient Dashboard
+
+![Patient](screenshots/patient-dashboard.png)
+
+### Doctor Dashboard
+
+![Doctor](screenshots/doctor-dashboard.png)
+
+###  Admin Dashboard
+
+![Admin](screenshots/admin-dashboard.png)
 
 
 ## Author
