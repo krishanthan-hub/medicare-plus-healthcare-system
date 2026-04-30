@@ -68,17 +68,17 @@ System monitoring dashboard
 
 This project was developed to:
 
-Understand full-stack web development
-Implement role-based systems (Admin, Doctor, Patient)
-Practice database integration using MySQL
+Understand full-stack web development,
+Implement role-based systems (Admin, Doctor, Patient),
+Practice database integration using MySQL and
 Simulate a real-world healthcare management system
 
 
 ## Future Improvements
 
-Improve UI/UX design
-Add email notifications
-Enhance security (password hashing, validation)
+Improve UI/UX design,
+Add email notifications,
+Enhance security (password hashing, validation) and
 Deploy to a live server
 
 
